@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">An enthusiastic coder excelling in backend and mobile development, fueled by a zest for creating impactful solutions.</h3>
+<h3 align="center">I am interested in backend and mobile development.</h3>
 
 - 📫 How to reach me **enesbilik8@gmail.com**
 
