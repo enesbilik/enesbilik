@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Enes%20Bilik&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mobile%20%26%20Backend%20Developer&descAlignY=60&descSize=22" width="100%"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-bilik/)
@@ -13,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Mobile & Backend Developer** focused on building clean, scalable applications. I enjoy working across the full product lifecycle — from API design to mobile UI.
+I'm a **Fullstack Developer** focused on building clean, scalable applications. I enjoy working across the full product lifecycle — from API design to mobile UI.
 
 - 🔧 Backend: **.NET 8**, CQRS, Onion Architecture, REST APIs
 - 📱 Mobile: **Flutter**, Clean Architecture, GetX / Riverpod
