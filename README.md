@@ -29,10 +29,6 @@ Currently focused on production-grade Flutter apps and .NET backend services wit
 - **[Finance Management System](https://github.com/enesbilik/finance-management-system)** — finance tracking API with Clean Architecture
 
 ---
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=enesbilik&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbilik&layout=compact&theme=default&hide_border=true&langs_count=5" />
-
 ---
 
 📬 enesbilik8@gmail.com · [LinkedIn](https://www.linkedin.com/in/enes-bilik/)
